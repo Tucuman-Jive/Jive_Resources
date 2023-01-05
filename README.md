@@ -1,6 +1,3 @@
-# Jive_Resources
-Resources for the Jive app, including Pitch, UI, and Data Model
-
 # Jive
 
 Welcome to Jive, the ultimate web app for bands on the go! With Jive, you can stay connected and organized with your bandmates like never before.
