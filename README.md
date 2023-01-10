@@ -25,3 +25,16 @@ Please see the back-end repository here: https://github.com/Tucuman-Jive/jive-sp
 <p align="center">
 <img src="https://raw.githubusercontent.com/Tucuman-Jive/Jive_Resources/main/Content/JiveDBPrelim.png" alt="Data Model" width="1000"/></br>
 </p>
+
+# Contributors
+**Dan J Casey:**
+* [GitHub](https://github.com/DanJCasey)
+* [LinkedIn](https://www.linkedin.com/in/dan-j-casey/)
+
+**Carolina Diazgranados:**
+* [GitHub](https://github.com/cdiazgranados)
+* [LinkedIn](https://www.linkedin.com/in/carolina-diazgranados/)
+
+**Emory Miller:**
+* [GitHub](https://www.github.com/Emory-Miller)
+* [LinkedIn](http://www.linkedin.com/in/emory-miller)
