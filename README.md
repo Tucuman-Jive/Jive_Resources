@@ -14,7 +14,7 @@ Jive is a lively messaging application for your band that keeps making music at 
 # Code
 Our back end is written in Java & Spring Boot utilizing an H2 environment for testing the application in development.
 
-Please see the back-end repository here: https://github.com/Tucuman-Jive/jive-springboot.git
+Please see the repository here: https://github.com/Tucuman-Jive/jive-springboot.git
 
 # Jive UI Wireframe
 <p align="center">
