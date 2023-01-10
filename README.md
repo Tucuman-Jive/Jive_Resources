@@ -12,7 +12,7 @@ So why wait? Sign up for Jive today and take control of your band's communicatio
 Jive is a lively messaging application for your band that keeps making music at the heart of communication, by providing a clean and clear correspondence platform. Never miss a beat by transforming messy text threads and chaotic email chains into a collaborative environment for you and your band. With a focus on organization, Jive will assist in keeping track of important messages by separating conversations into separate gig channels and allowing users to react and reply to one another directly. Jive features the ability to send multimedia messages, such as sheet music or videos, and amplifies usability amongst different band workspaces. Built utilizing React, Java, Spring Boot, WebSockets, and a history of musicians missing important messages. 
 
 # Back End:
-Our back end is written in Java & Spring Boot utilizing an H2 development environment for tests.
+Our back end is written in Java & Spring Boot utilizing an H2 environment for testing the application in development.
 
 Please see the back-end repository here: https://github.com/Tucuman-Jive/jive-springboot.git
 
