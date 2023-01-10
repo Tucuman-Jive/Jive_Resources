@@ -20,3 +20,8 @@ Please see the back-end repository here: https://github.com/Tucuman-Jive/jive-sp
 <p align="center">
 <img src="https://raw.githubusercontent.com/Tucuman-Jive/Jive_Resources/main/Jive_Wireframe_Window.png" alt="drawing" width="1000"/></br>
 </p>
+
+# Jive Preliminary Data Model
+<p align="center">
+<img src="https://raw.githubusercontent.com/Tucuman-Jive/Jive_Resources/main/Jive_Wireframe_Window.png" alt="drawing" width="1000"/></br>
+</p>
