@@ -23,7 +23,7 @@ Please see the repository here: https://github.com/Tucuman-Jive/jive-springboot.
 
 # Jive Preliminary Data Model
 <p align="center">
-<img src="https://raw.githubusercontent.com/Tucuman-Jive/Jive_Resources/main/Content/JiveDBPrelim.png" alt="Data Model" width="1000"/></br>
+<img src="https://raw.githubusercontent.com/Tucuman-Jive/Jive_Resources/main/Content/JiveDBTest.png" alt="Data Model" width="1000"/></br>
 </p>
 
 # Contributors
