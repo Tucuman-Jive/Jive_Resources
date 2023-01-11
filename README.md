@@ -18,7 +18,7 @@ Please see the repository here: https://github.com/Tucuman-Jive/jive-springboot.
 
 # Jive UI Wireframe
 <p align="center">
-<img src="https://raw.githubusercontent.com/Tucuman-Jive/Jive_Resources/main/Jive_Wireframe_Window.png" alt="UI Wirefram" width="1000"/></br>
+<img src="https://raw.githubusercontent.com/Tucuman-Jive/Jive_Resources/main/Content/Jive_Wireframe_Window.png" alt="UI Wirefram" width="1000"/></br>
 </p>
 
 # Jive Preliminary Data Model
